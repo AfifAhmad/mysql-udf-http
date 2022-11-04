@@ -15,7 +15,7 @@ http://code.google.com/p/mysql-udf-http
 | PUT         |  UPDATE     |  Update a resource     |
 | DELETE      |  DELETE     |  Delete a resource     |
 
-Support MySQL version 5.1.x and 5.5.x on Linux systems.
+Support MySQL version 8 on Linux systems.
 
 ## User Guide
 
